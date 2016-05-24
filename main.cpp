@@ -47,7 +47,7 @@ int main() {
     char **pptr;
     char  host[] = "requestb.in";
     char  page[] = "/1hhlob31";
-    char jsonText[] = "{\"user\":\"doctoravatar@penzance.com\",\"forecast\":7,\"t\":\"vlIj\",\"zip\":94089}";
+    char jsonText[] = "{\"field1\":\"value1\",\"field2\":\"value2\"}";
 
 
     char str[50];
